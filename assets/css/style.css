@@ -1,0 +1,18 @@
+.jumbotron {
+    color: #fff;
+    background-position-y: 10%;
+    color: #fff;
+    background-color: #800000;
+}
+
+div.panel-body {
+    background-image: url('../images/bullet.jpg');
+    color: rgb(0, 0, 0);
+}
+
+.btn-primary {
+    background-color: #2166ce;
+    border-color: #fff;
+    font-weight: bold;
+}
+
